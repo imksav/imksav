@@ -42,6 +42,10 @@
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
+	<td width="20%" align="center">
+        <span><strong>PHP</strong></span><br><br><br>
+        <img height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
+      </td>
        </td>
        </tr>
       </tbody>
