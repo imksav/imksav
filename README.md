@@ -20,6 +20,15 @@
 ![Github Stats](https://img.shields.io/github/followers/imksav?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
 -->
 
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav Github")](https://github.com/imksav "Keshav's Github") |
+| :------------: | :------------: |
+
+<br>
+
+![](https://activity-graph.herokuapp.com/graph?username=imksav&theme=redical)
+
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -52,10 +61,4 @@
       </tbody>
 </table>
 <br>
-
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav Github")](https://github.com/imksav "Keshav's Github") |
-| :------------: | :------------: |
-
-<br>
-
-![](https://activity-graph.herokuapp.com/graph?username=imksav&theme=redical)
+### 🙏 Keep Learning, Keep Coding! 👋
