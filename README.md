@@ -44,7 +44,7 @@
       </td>
 	<td width="20%" align="center">
         <span><strong>PHP</strong></span><br><br><br>
-        <img width="90px" height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
+        <img width="180px" height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
       </td>
        </td>
        </tr>
