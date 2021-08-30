@@ -11,13 +11,14 @@
 - 📫 **How to connect with me:** imksav@gmail.com
 - 😄 **Pronouns:** He/Him
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imksav&layout=full)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=imksav&layout=full)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&layout=full&hide_border=true)
 
 <br>
 
 ![Twitter Stats](https://img.shields.io/twitter/follow/imksav?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github Stats](https://img.shields.io/github/followers/imksav?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
+-->
 
 <table>
   <tbody>
@@ -42,7 +43,7 @@
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-	<td width="20%" align="center">
+	<td width="30%" align="center">
         <span><strong>PHP</strong></span><br><br><br>
         <img width="180px" height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
       </td>
@@ -55,8 +56,6 @@
 | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav Github")](https://github.com/imksav "Keshav's Github") |
 | :------------: | :------------: |
 
-
 <br>
-
 
 ![](https://activity-graph.herokuapp.com/graph?username=imksav&theme=redical)
