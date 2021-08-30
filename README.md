@@ -28,7 +28,7 @@
        </td>
 	<td width="20%" align="center">
         <span><strong>Dart</strong></span><br><br><br>
-        <img height="64px" src="https://th.bing.com/th/id/Rf364814ec9d29ca917636c82cc442d23?rik=riODoahHRGfekg&pid=ImgRaw">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
       </td>
        <td width="20%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
@@ -44,7 +44,7 @@
       </td>
 	<td width="20%" align="center">
         <span><strong>PHP</strong></span><br><br><br>
-        <img height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
+        <img width="90px" height="64px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png">
       </td>
        </td>
        </tr>
