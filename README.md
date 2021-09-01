@@ -55,21 +55,16 @@
 <a href="https://twitter.com/imksav"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 <a href="https://m.me/964817427046214"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imksav.imksav)
-<!-- <a href="https://imksav.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a> -->
-<!-- <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a> -->
-<!-- <a href="https://skype.com/"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a> -->
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=imksav&layout=full)
-
 
 <br>
 
 ![Twitter Stats](https://img.shields.io/twitter/follow/imksav?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github Stats](https://img.shields.io/github/followers/imksav?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
-![Instagram Stats](https://img.shields.io/instagram/followers/imksav?color=blue&label=INSTAGRAM%20FOLLOWERS&logo=instagram&style=for-the-badge)
--->
 
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav's Github")](https://github.com/imksav "Keshav's Github") |
-| :------------: | :------------: |
+<br>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")
+[![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav's Github")](https://github.com/imksav "Keshav's Github")
 
 <br>
 
