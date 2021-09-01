@@ -13,14 +13,15 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=imksav&layout=full)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&layout=full&hide_border=true)
-
+-->
 <br>
 
 ![Twitter Stats](https://img.shields.io/twitter/follow/imksav?color=blue&label=Twitter%20FOLLOWERS&logo=twitter&style=for-the-badge)
 ![Github Stats](https://img.shields.io/github/followers/imksav?color=blue&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
--->
+![Instagram Stats](https://img.shields.io/instagram/followers/imksav?color=blue&label=INSTAGRAM%20FOLLOWERS&logo=instagram&style=for-the-badge)
 
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav Github")](https://github.com/imksav "Keshav's Github") |
+
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=imksav&theme=radical)](https://github.com/imksav, "Keshav's Github")  |  [![Keshav Github](https://github-readme-stats.vercel.app/api?username=imksav&show_icons=true&theme=radical&line_height=40 "Keshav's Github")](https://github.com/imksav "Keshav's Github") |
 | :------------: | :------------: |
 
 <br>
